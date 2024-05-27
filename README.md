@@ -12,19 +12,19 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a NLP Engineer and Data Scientist with a huge love for Python, LLMs,  RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a NLP Engineer and Data Scientist with a huge love for Python, LLMs, RDBMS, REST API, Modeling and Data Visualization. </p>
 
-<!--
-**Muhammad-Shah/Muhammad-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 📽 I'm Currently working on Generative AI projects.
+- 🙋‍♂️ Ask me about Deep Learning, Machine Learning, Statistics.
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://.github.io) for more details about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **Degree:** [B.Sc](https://www.university-website.com)
+  - Institution: [University Name](https://www.university-website.com)
+  - Field of Study: [Computer Software Engineering](https://www.university-website.com/department)
+  - Graduation Year: [2024]
