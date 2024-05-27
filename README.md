@@ -25,6 +25,6 @@
 ## Education
 
 - **Degree:** [B.Sc](https://www.university-website.com)
-  - Institution: [University Name](https://www.university-website.com)
+  - Institution: [Stanford](https://www.university-website.com)
   - Field of Study: [Computer Software Engineering](https://www.university-website.com/department)
   - Graduation Year: [2024]
