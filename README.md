@@ -35,3 +35,8 @@
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=The%20smallest%20of%20actions%20is%20always%20better%20than%20the%20noblest%20of%20intentions.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
