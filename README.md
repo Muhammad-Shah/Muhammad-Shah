@@ -27,7 +27,7 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,c,cpp,js,mysql,tensorflow,pytorch,opencv,sklearn,selenium,fastapi,mongo,git,vscode,pycharm,docker,aws,postman,html,css,linux,windows&perline=10"  />
 </p>
-<br />
+<!-- <br /> -->
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
