@@ -22,6 +22,13 @@
 - ❤ Experienced in databases, version control systems like Git and collaboration through GitHub, fast API, web scraping and data extraction techniques.
 - 💻 Visit my [Portfolio](https://.github.io) for more details about me.
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,c,cpp,js,mysql,tensorflow,pytorch,opencv,html,css,django,md,mongo,git,vscode,docker,aws,postman,linux&perline=10"  />
+</p>
+<br />
+
 ## Education
 
 - **Degree:** [B.Sc](https://www.university-website.com)
