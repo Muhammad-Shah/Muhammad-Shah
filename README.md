@@ -1,4 +1,4 @@
-<!--Banner-->
+<!--Banner1-->
 ![Muhammad Banner Image](./banner.png)
 
 <!--Night Owl image-->
