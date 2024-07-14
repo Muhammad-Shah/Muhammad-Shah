@@ -35,12 +35,21 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Shah&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
+<p align="center">
+    <a href="https://github.com/HP319193?tab=repositories">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dh418v&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
+    </a>
+    <a href="https://github.comHP319193?tab=stars">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=dh418v&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+    </a>
+  </p>
+
 ---
 
 ## Education
 
 - **Degree:** [B.Sc](https://www.university-website.com)
-  - Institution: [Stanford](https://www.university-website.com)
+  - Institution: [University of Engineering and Technology](https://www.university-website.com)
   - Field of Study: [Computer Software Engineering](https://www.university-website.com/department)
   - Graduation Year: [2024]
 
