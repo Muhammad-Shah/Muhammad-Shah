@@ -1,5 +1,9 @@
 <!--Banner12388774567891586077805711-->
-![Muhammad Banner Image](./banner.png)
+<p align="center">
+  <img src="./banner.png" alt="Muhammad Banner Image" />
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100" />
+</p>
+
 
 <!--Night Owl image-->
 <div>
