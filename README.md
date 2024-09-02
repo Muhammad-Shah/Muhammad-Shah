@@ -1,8 +1,10 @@
 <!--Banner12388774567891586077805711-->
-<div style="display: flex; align-items: center;">
-  <img src="./banner.png" alt="Muhammad Banner Image" />
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100" />
-</div>
+<table>
+  <tr>
+    <td><img src="./banner.png" alt="Muhammad Banner Image" /></td>
+    <td><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100" /></td>
+  </tr>
+</table>
 
 
 <!--Night Owl image-->
