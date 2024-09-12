@@ -1,4 +1,4 @@
-<img align="center" src="https://komarev.com/ghpvc/?username=Muhammad-Shah&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Shah" /> 
+<img align="centre" src="https://komarev.com/ghpvc/?username=Muhammad-Shah&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Shah" /> 
 <!--Banner12388774567891586077805711-->
 <table>
   <tr>
