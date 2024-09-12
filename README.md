@@ -1,13 +1,10 @@
-
+<img align="center" src="https://komarev.com/ghpvc/?username=Muhammad-Shah&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Shah" /> 
 <!--Banner12388774567891586077805711-->
 <table>
   <tr>
     <td><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100" /></td>
     <td><img src="./banner.png" alt="Muhammad Banner Image" /></td>
     <td><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100" /></td>
-  </tr>
-  <tr>
-    <img align="center" src="https://komarev.com/ghpvc/?username=Muhammad-Shah&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Shah" /> 
   </tr>
 </table>
 
