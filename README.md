@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100" /></td>
-    <td><img src="./banner.png" alt="Muhammad Banner Image" /></td>
+    <td><img src="./banner1.png" alt="Muhammad Banner Image" /></td>
     <td><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100" /></td>
   </tr>
 </table>
