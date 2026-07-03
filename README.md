@@ -25,7 +25,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 📽 I'm Currently working as an AI Engineer @([MakTek](https://maktek.ai)).
+- 📽 I'm Currently working as an AI Software Engineer @([Humai](https://humai.ae/)).
 - 🙋‍♂️ Ask me about Deep Learning, Machine Learning, Statistics these are my jam! Feel free to reach out and discuss these topics..
 - ❤ Experienced in databases, version control systems like Git and collaboration through GitHub, fast API, web scraping and data extraction techniques.
 - 💻 Visit my ([My Portfolio](https://muhammad-shah.github.io/)) for more details about me.
