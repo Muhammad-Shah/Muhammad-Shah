@@ -34,8 +34,8 @@ Principal contributor to **Huscribe**, HumAI's AI platform: five production serv
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Muhammad-Shah&hide_border=true&theme=github-dark-blue&background=0d1117">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Shah&hide_border=true&theme=default&ring=0969da&fire=0969da&currStreakLabel=0969da" alt="Contribution streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Muhammad-Shah&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&theme=github-dark-blue&background=0d1117">
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Shah&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&theme=default&ring=0969da&fire=0969da&currStreakLabel=0969da" alt="Contribution streak">
 </picture>
 </p>
 
