@@ -27,6 +27,13 @@ Principal contributor to **Huscribe**, HumAI's AI platform: five production serv
 
 <p align="center">
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote of the day">
+</picture>
+</p>
+
+<p align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Shah&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Shah&theme=default" alt="profile details">
 </picture>
