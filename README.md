@@ -19,6 +19,66 @@ Principal contributor to **Huscribe**, HumAI's AI platform: five production serv
 - **Prompt optimisation** — DSPy MIPRO across nine coaching agents: +35% personalisation, +28% actionability and +31% conflict resolution against hand-written prompts.
 - **Voice and documents** — the voice interviewer for HumAI's recruitment platform, and a legal-translation agent for Mairit that takes PDF, Word and scanned contracts through to structured, reviewable output.
 
+## GitHub activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Shah&style=flat&color=0969da&label=profile+views" alt="Profile views">
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Shah&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Shah&theme=default" alt="profile details">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Muhammad-Shah&hide_border=true&theme=github-dark-blue&background=0d1117">
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Shah&hide_border=true&theme=default&ring=0969da&fire=0969da&currStreakLabel=0969da" alt="Contribution streak">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Shah&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Shah&theme=default" alt="stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Shah&theme=github_dark&utcOffset=4">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Shah&theme=default&utcOffset=4" alt="productive time">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Shah&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Shah&theme=default" alt="repos per language">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Shah&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Shah&theme=default" alt="most commit language">
+</picture>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0969da/Muhammad-Shah" alt="Contribution calendar" width="100%">
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://profile-trophy.vercel.app/?username=Muhammad-Shah&no-frame=true&no-bg=true&column=7&margin-w=8&theme=onestar">
+  <img src="https://profile-trophy.vercel.app/?username=Muhammad-Shah&no-frame=true&no-bg=true&column=7&margin-w=8&theme=flat" alt="GitHub trophies">
+</picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Shah/Muhammad-Shah/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Muhammad-Shah/Muhammad-Shah/output/github-snake.svg" alt="Contribution snake">
+  </picture>
+</p>
+
 ## Selected repositories
 
 | Repository | What it is |
@@ -32,7 +92,9 @@ Principal contributor to **Huscribe**, HumAI's AI platform: five production serv
 
 ## Stack
 
-Python · TypeScript · SQL · Dart · FastAPI · Pydantic · LangGraph · LangChain · DSPy · CrewAI · MCP · PyTorch · TensorFlow · Hugging Face · TRL / PEFT / LoRA · RAGAs · ChromaDB · FalkorDB · MongoDB · PostgreSQL · Redis · Docker · Kubernetes · GCP (GKE, Cloud Run, Cloud Build, Vertex AI) · AWS · GitHub Actions · Deepgram · ElevenLabs · Whisper · LiveKit · Pipecat
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langgraph&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=white) ![DSPy](https://img.shields.io/badge/DSPy-0d1117?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=flat-square&logo=openai&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=white)
+
+<sub>Python · TypeScript · SQL · Dart · FastAPI · Pydantic · LangGraph · LangChain · DSPy · CrewAI · MCP · PyTorch · TensorFlow · Hugging Face · TRL / PEFT / LoRA · RAGAs · ChromaDB · FalkorDB · MongoDB · PostgreSQL · Redis · Docker · Kubernetes · GCP (GKE, Cloud Run, Cloud Build, Vertex AI) · AWS · GitHub Actions · Deepgram · ElevenLabs · Whisper · LiveKit · Pipecat</sub>
 
 ## Background
 
